@@ -1,2 +1,2 @@
 # git-basics
-Java Brains - Git Basics Course
+Java Brains - Git Basics Course Github Repository
